@@ -32,3 +32,12 @@ The system is based on a set of original mathematical formulas that allow the ge
    ```bash
    git clone https://github.com/JohnSchouten65/prime-menu.git
    cd prime-menu
+
+### 📌 DOI and Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16540597.svg)](https://doi.org/10.5281/zenodo.16540597)
+
+
+**Citation (APA style):**  
+Schouten, J. P. (2025). *Prime Menu Engine – A deterministic system for prime numbers* (v1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.16540597
+
